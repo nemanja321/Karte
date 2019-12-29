@@ -1,1 +1,9 @@
-Aplikacija koja omogucava da se lakse kupe online karte za autobus Bez cekanja u redovima i jednim klikom sve resava Neku osnovu sam imao od prosle godine ali sam sve izmjenjao i skoro napravio potpuno novu aplikaciju (osnova je bila vezana za taksi , a ovo je za karte za Autobus) Prvi Layout jeste logovanje na profil koji ste vec kreirali u Layoutu za kreiranje Drugi Layout vec koristite da odaberete mjesto odlaska i mjesto do kojeg mislite da stignete i novitet je da treca funkcija omogucava da odaberete rutu (preko kojeg grada zelite da idete) Primjer: Odaberete Podgorica kao pocetna stanica idete do Budve krajnja stanice i odredite da idete preko Cetinja jer vam taj put odgovara On vam izracuna cijenu vaseg putovanja i klikom na pay and reservation On vam otvara sledeci Layout dje birate cime zelite da platite Paypalom ili kreditnom karticom . Na kraju vam izbaci vasu kartu ,koju je kasnije moguce skenirati u autobus i ne zadrzavati vrijeme vozaca Moguce je dodati i gps na autobusima kakko bi se dodala i ta opcija pracenja autobusa.
+Aplikacija koja omogucava da se lakse kupe online karte za autobus Bez cekanja u redovima i jednim klikom sve resava
+Neku osnovu sam imao od prosle godine ali sam sve izmjenjao i skoro napravio potpuno novu aplikaciju (osnova je bila vezana za taksi , a ovo je za karte za Autobus)
+Prvi Layout jeste logovanje na profil koji ste vec kreirali u Layoutu za kreiranje 
+Drugi Layout vec koristite da odaberete mjesto odlaska i mjesto do kojeg mislite da stignete i novitet je da treca funkcija omogucava da odaberete rutu (preko kojeg grada zelite da idete) 
+Primjer: Odaberete Podgorica kao pocetna stanica idete do Budve krajnja stanice i odredite da idete preko Cetinja jer vam taj put odgovara
+On vam izracuna cijenu vaseg putovanja i klikom na pay and reservation
+On vam otvara sledeci Layout dje birate cime zelite da platite Paypalom ili kreditnom karticom 
+Na kraju vam izbaci vasu kartu ,koju je kasnije moguce skenirati u autobus i ne zadrzavati vrijeme vozaca
+Moguce je dodati i gps na autobusima kakko bi se dodala i ta opcija pracenja autobusa.
